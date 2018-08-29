@@ -28,6 +28,8 @@ It is easiest to consider physical products when implementing parametric rigs. F
 
 More complex parameters might allow for material selection, overall (non-conic) shape, handle shape and size, lip geometry, styling and surface finish...
 
+How might we begin to parameterize something like a subscription service in this way?
+
 -----
 
 ### Types of Parameters
