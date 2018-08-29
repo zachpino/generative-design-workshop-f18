@@ -6,7 +6,7 @@ This week, let's discuss how we as designers can fully *parameterize* a specific
 
 ### References for the Week
 
-- [Tylko Bookshelves](week1-sculpting-data.pdf)
+- [Tylko Bookshelves](https://tylko.com)
 - [Article on Tylko with Founder Interview](https://www.curbed.com/2015/6/24/9946872/tylko-furniture-app-augmented-reality)
 - [Floyd](https://floydhome.com/products)
 - [De-Sk](https://de-sk.co/buy)
