@@ -7,3 +7,4 @@ Institute of Design course in parametric design principles and markets-of-one de
 -----
 
 - [Week 1 · Course Overview](week01/README.md)
+- [Week 2 · Parametric Rigs](week02/README.md)
