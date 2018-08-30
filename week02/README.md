@@ -69,7 +69,7 @@ Grasshopper is complicated, and the only way to get good at it is to practice. W
 	- A simple *wallpaper pattern* that accomodates users with various degrees and sorts of vision impairment
 	- A *stool/chair* for people of various heights and specific postures and movements associated with design tasks.
 
-- To reinforce the Grasshopper tools we covered this week, *recreate* this parametric rig of a simple cup. Play with the sliders — where and how does the rig break?
+- To reinforce the Grasshopper tools we covered this week, *recreate* this parametric rig of a simple cup in Grasshopper. Play with the sliders — where and how does the rig break? To view this image larger, click on it, and then click the 'Download' button.
 
 ![grasshopper-cup](grasshopper-cup.png)
 ![cup](cup-rig.png)
