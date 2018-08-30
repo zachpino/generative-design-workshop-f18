@@ -6,7 +6,7 @@ This week, let's discuss how we as designers can fully *parameterize* a specific
 
 ### References for the Week
 
-- [Tylko Bookshelves](week1-sculpting-data.pdf)
+- [Tylko Bookshelves](https://tylko.com)
 - [Article on Tylko with Founder Interview](https://www.curbed.com/2015/6/24/9946872/tylko-furniture-app-augmented-reality)
 - [Floyd](https://floydhome.com/products)
 - [De-Sk](https://de-sk.co/buy)
@@ -27,6 +27,8 @@ It is easiest to consider physical products when implementing parametric rigs. F
 ![cup simple parameters](cup.png)
 
 More complex parameters might allow for material selection, overall (non-conic) shape, handle shape and size, lip geometry, styling and surface finish, ethical decisions about the  environmental impact of its manufacture and social condition of its fabricators, intended product lifespan...
+
+How might we begin to parameterize something like a subscription service in this way?
 
 -----
 
@@ -57,6 +59,7 @@ What other parameters could we imagine implementing?
 
 ### Homework
 
+<<<<<<< HEAD
 Grasshopper is complicated, and the only way to get good at it is to practice. We will be doing lots of exercises, learning how the tool can enable new design approaches like [evolutionary modeling](http://www.kramweisshaar.com/projects/breeding-tables), [growing design solutions](http://arandalasch.com), and [data-driven form](https://www.adriensegal.com). Please complete all of these homework bits and pieces before next week, and bring all your work to class.
 
 - Unfortunately, there are not a whole lot of good beginner-level tutorials for Grasshopper. Many web searches will yield answers from the POV of mathematicians and grasshopper experts. One good resource is [Formularch](http://formularch.blogspot.com) — please check out some of their examples to see some exciting stuff that is possible with Grasshopper!
@@ -73,3 +76,6 @@ Grasshopper is complicated, and the only way to get good at it is to practice. W
 ![cup](cup-rig.png)
 
 - [Read this recent article on generative art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)! Next week, we'll be talking about algorithmic randomness and data-driven form.
+=======
+Let's see how today goes! 
+>>>>>>> 8a0eb630fce95e31a7d262712d042f95e9148768
