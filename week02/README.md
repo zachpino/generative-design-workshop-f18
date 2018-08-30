@@ -59,7 +59,6 @@ What other parameters could we imagine implementing?
 
 ### Homework
 
-<<<<<<< HEAD
 Grasshopper is complicated, and the only way to get good at it is to practice. We will be doing lots of exercises, learning how the tool can enable new design approaches like [evolutionary modeling](http://www.kramweisshaar.com/projects/breeding-tables), [growing design solutions](http://arandalasch.com), and [data-driven form](https://www.adriensegal.com). Please complete all of these homework bits and pieces before next week, and bring all your work to class.
 
 - Unfortunately, there are not a whole lot of good beginner-level tutorials for Grasshopper. Many web searches will yield answers from the POV of mathematicians and grasshopper experts. One good resource is [Formularch](http://formularch.blogspot.com) — please check out some of their examples to see some exciting stuff that is possible with Grasshopper!
@@ -76,6 +75,3 @@ Grasshopper is complicated, and the only way to get good at it is to practice. W
 ![cup](cup-rig.png)
 
 - [Read this recent article on generative art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)! Next week, we'll be talking about algorithmic randomness and data-driven form.
-=======
-Let's see how today goes! 
->>>>>>> 8a0eb630fce95e31a7d262712d042f95e9148768
