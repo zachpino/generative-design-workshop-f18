@@ -26,7 +26,7 @@ It is easiest to consider physical products when implementing parametric rigs. F
 
 ![cup simple parameters](cup.png)
 
-More complex parameters might allow for material selection, overall (non-conic) shape, handle shape and size, lip geometry, styling and surface finish...
+More complex parameters might allow for material selection, overall (non-conic) shape, handle shape and size, lip geometry, styling and surface finish, ethical decisions about the  environmental impact of its manufacture and social condition of its fabricators, intended product lifespan...
 
 -----
 
@@ -57,4 +57,19 @@ What other parameters could we imagine implementing?
 
 ### Homework
 
-Let's see how today goes! 
+Grasshopper is complicated, and the only way to get good at it is to practice. We will be doing lots of exercises, learning how the tool can enable new design approaches like [evolutionary modeling](http://www.kramweisshaar.com/projects/breeding-tables), [growing design solutions](http://arandalasch.com), and [data-driven form](https://www.adriensegal.com). Please complete all of these homework bits and pieces before next week, and bring all your work to class.
+
+- Unfortunately, there are not a whole lot of good beginner-level tutorials for Grasshopper. Many web searches will yield answers from the POV of mathematicians and grasshopper experts. One good resource is [Formularch](http://formularch.blogspot.com) — please check out some of their examples to see some exciting stuff that is possible with Grasshopper!
+
+- Create, on paper, *parametric rigs* for these objects and challenges. Definitely begin this work by image searching to see the existing range of design solutions, and attempt to delineate many specific designable parameters.
+	
+	- An *umbrella* that is able to be used in different climates
+	- A simple *wallpaper pattern* that accomodates users with various degrees and sorts of vision impairment
+	- A *stool/chair* for people of various heights and specific postures and movements associated with design tasks.
+
+- To reinforce the Grasshopper tools we covered this week, *recreate* this parametric rig of a simple cup. Play with the sliders — where and how does the rig break?
+
+![grasshopper-cup](grasshopper-cup.png)
+![cup](cup-rig.png)
+
+- [Read this recent article on generative art](https://www.artnome.com/news/2018/8/8/why-love-generative-art)! Next week, we'll be talking about algorithmic randomness and data-driven form.
