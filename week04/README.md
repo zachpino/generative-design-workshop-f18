@@ -91,7 +91,7 @@ Draw lines to a number of nearest grid points from a single movable point.
 
 #### Attractor/Repulsor
 
-Distort a grid of points with 
+Distort a grid of points with a single movable point.
 
 ![Attractor/Repulsor](attractor+repulsor.png)
 
