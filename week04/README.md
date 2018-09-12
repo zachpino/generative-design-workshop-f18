@@ -102,7 +102,7 @@ Distort a grid of points with
 
 #### After Vera Molnar / Jared Tarbell
 
-Experiment in randomness to produce geometric patterns similar to [Molnárs]() and [Tarbells]().
+Experiment in randomness to produce geometric patterns similar to [Molnár](http://www.veramolnar.com) and [Tarbell](http://www.complexification.net/gallery/).
 
 ![randompattern](randompattern.png)
 
