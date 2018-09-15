@@ -130,8 +130,8 @@ We will be discussing data-forms next week!
 
 - Model: Recreate this water ripple simulator to reinforce the work we did this week. Play with all the sliders when you are done! Is there anywhere we could inject a random node into for more interesting behavior? 
 
-![ripple](wave.gif)
+	![ripple](wave.gif)
 
-![ripple](wave.png)
+	![ripple](wave.png)
 
 
