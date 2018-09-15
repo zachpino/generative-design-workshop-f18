@@ -116,15 +116,17 @@ Experiment in randomness to produce geometric patterns similar to [Molnár](http
 
 We will be discussing data-forms next week!
 
-- Read: Download this PDF of [*Thinking Objects* by Tim Parsons](ThinkingObjects.pdf), a contemporary design theorist. [Buy the book](https://www.amazon.com/Thinking-Objects-Contemporary-Approaches-Product/dp/2940373744) if you like it, it's totally worth having on your shelf! These selections discuss different motivations we might bring into a design projects other than traditional user-centrism and financial development. We'll delve into several other sections of this text through the semester, so hold onto the PDF. Please read **sections 1.1-1.3, 2.1-2.5, 2.8, and lastly and most importantly 2.12**. It shouldn't take more than an hour, the chapters and short and there are lots of pictures. Please look up any referenced works that you're not familiar with. Prepare to converse as a class on this text. How does the language, logic, and content of this book compare with other things you've read in other classes?
+- Read: Download this PDF of [*Thinking Objects* by Tim Parsons](ThinkingObjects.pdf), a contemporary design theorist. [Buy the book](https://www.amazon.com/Thinking-Objects-Contemporary-Approaches-Product/dp/2940373744) if you like it, it's totally worth having on your shelf! These selections discuss different motivations we might bring into a design projects other than traditional user-centrism and financial development. We'll delve into several other sections of this text through the semester, so hold onto the PDF. 
 
-- Investigate: Browse this [painstakingly curated reference}(http://dataphys.org/list/) of *physicalized data*, or 3-dimensional data visualizations. The list is chronological, so head towards the bottom for more contemporary stuff. Find one for each of the following criteria, and prepare to discuss your choices.
+	Please read **sections 1.1-1.3, 2.1-2.5, 2.8, and lastly and most importantly 2.12**. It shouldn't take more than an hour, the chapters and short and there are lots of pictures. Please look up any referenced works that you're not familiar with. Prepare to converse as a class on this text. How does the language, logic, and content of this book compare with other things you've read in other classes?
+
+- Investigate: Browse this [painstakingly curated reference](http://dataphys.org/list/) of *physicalized data*, or 3-dimensional data visualizations. The list is chronological, so head towards the bottom for more contemporary stuff. Find one for each of the following criteria, and prepare to discuss your choices.
 
 	- A physicalization that is compelling to you with respect to the *data* that is physicalized.
 	- A physicalization that is compelling to you with respect to the *form* and *design* of the object itself.
 	- A physicalization that is compelling to you with respect to the *emotional or intellectual impact* of the object and its story if you had it in your home or workplace.
 
-Some questions about these examples to consider... Are these objects *designed objects*? If not, what are they? What makes some of these objects more *legible* than others? How should we attempt to evaluate if some of these objects are more *successful* than others? Why might a user actually want to engage this type of object? 
+	Some questions about these examples to consider... Are these objects *designed objects*? If not, what are they? What makes some of these objects more *legible* than others? How should we attempt to evaluate if some of these objects are more *successful* than others? Why might a user actually want to engage this type of object? 
 
 - Model: Recreate this water ripple simulator to reinforce the work we did this week. Play with all the sliders when you are done! Is there anywhere we could inject a random node into for more interesting behavior? 
 
