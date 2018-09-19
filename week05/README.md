@@ -118,6 +118,7 @@ Different ways to plot 3d points based on information (here random numbers) and 
 
 ![dataplot](dataplot_gh.png)
 
+-----
 
 #### Image Sampler
 
@@ -129,6 +130,7 @@ Extract brightness data from an image and create a heightmap.
 
 ![imagesampler](imagesampler_gh.png)
 
+-----
 
 #### Data Samples
 
@@ -138,8 +140,7 @@ Draw real data in Grasshopper.
 
 [datasamples](datasamples.gh)
 
-![datasamples](datasamples_gh.png)
-
+-----
 
 #### Data Form
 
