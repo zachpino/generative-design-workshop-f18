@@ -120,18 +120,6 @@ Different ways to plot 3d points based on information (here random numbers) and 
 
 -----
 
-#### Image Sampler
-
-Extract brightness data from an image and create a heightmap.
-
-![imagesampler](imagesampler.png)
-
-[imagesampler](imagesampler.gh)
-
-![imagesampler](imagesampler_gh.png)
-
------
-
 #### Data Samples
 
 Draw real data in Grasshopper.
