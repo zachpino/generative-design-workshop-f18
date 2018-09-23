@@ -138,11 +138,13 @@ We will be discussing anthropometry next week!
 
 	Browse through the whole books (they're mostly pictures) to get a sense of the contents, and please read pages 7-11, 33, 35, and 36 of *Measure of Man and Woman*. Also prepare to discuss the *motivation* of these texts, and how we should confront them as *inclusive* designers. Are texts like this useful to our design practice? How might different disciplines — like the many social sciences, humanities, and different engineering areas — evaluate our design discipline's reliance on books like this?  
 
+- Investigate: Take a look through the many data sources linked above and bookmark some personally interesting, unexpected, and meaningful datasets. 
+
 - Model: Please recreate this discursive data form, drawing attention to several countries' respective deforestation activities and policies.
 
 	![pots rendered](pots_rendered.png)
 
-	Data forms that carry a family similarity to traditional object archetypes are often more effective than the 'data-blobs' that are expected of traditional data visualization. By embedding data in everyday objects, we can easily make data more approachable, legible, and confrontational to audiences. Here, let's create a set of gardening pots, which demonstrate in 3-dimensions the history of the forested area of 5 large countries: Brazil, China, India, Russia, and the United States. The inside volume of the pot will be shaped by the history of the various countries' forested percentage, and the outside volume will make clear the proportional size of the country and its most recent (2015) forest amount. The smaller the remaining forest, the less room will be available for planting, and the easier the pot will be to topple and shatter — embodying the fragility of the remaining ecosystems. All data is from the [World Bank](https://data.worldbank.org/indicator/AG.LND.FRST.ZS?end=2015&locations=CN-RU-US-BR-IN&start=2010).
+	Data forms that carry a family similarity to traditional object archetypes are often more effective than the 'data-blobs' that are expected of traditional data visualization. By embedding data in everyday objects, we can easily make data more approachable, legible, and confrontational to audiences. Here, let's create a set of gardening pots, which demonstrate in 3-dimensions the history of the forested area of 5 large countries: Brazil, China, India, Russia, and the United States. The inside volume of the pot will be shaped by the history of the various countries' forested percentage, and the outside volume will make clear the proportional size of the country and its most recent (2015) forest amount. The smaller the remaining forest, the less room will be available for planting, and the easier the pot will be to topple and shatter — embodying the fragility of the remaining ecosystems. All data is from the [World Bank](https://data.worldbank.org/indicator/AG.LND.FRST.ZS?end=2015&locations=CN-RU-US-BR-IN&start=1990).
 
 	![diagram](diagram.png)
 
@@ -166,7 +168,7 @@ We will be discussing anthropometry next week!
 
 	![pots](pots.png)
 
-	Other complementary datasets...
+	Also browse through these other complementary datasets. Could you find a way to embed some of these other datapoints in your data form?
 
 	- [Global Deforestation Rates by Country](https://rainforests.mongabay.com/deforestation_country.html)
 	- [Environmental Performance Indicators](https://epi.envirocenter.yale.edu/epi-downloads)
