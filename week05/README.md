@@ -157,7 +157,7 @@ We will be discussing anthropometry next week!
 	9.834
 	```
 
-	#### Foreseted Areas as Percentage of Total Area (1990,1995,2000,2005,2010,2015)
+	#### Forested Area as Percentage of Total Area (Same countries and order as above for 1990,1995,2000,2005,2010,2015)
 	```
 	65.4,63.9,62.4,60.6,59.6,59.0
 	16.7,17.8,18.9,20.6,21.4,22.2
