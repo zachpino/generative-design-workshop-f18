@@ -38,7 +38,7 @@ Some data visualization references.
 
 Data forms, a new term for an even newer aesthetic archetype, is a very young discipline. As data visualization has become more common in 2D and interactive applications — 3-dimensional artists, architects, and designers have begun to experiment with physicalized 3D data — and have questioned how we can effectively communicate more complex information through 3D form. 
 
-Embedding data in physical 3D rather than 2D form allows for many obvious benefits. Materiality, surface finish, color, scale, texture, volume, enclosedness, placement in the world, weight... these all become meaningful choices in 3D form, and provide additional vectors for data-driven intentionality.  More intrigueing, perhaps, these same designers have experimented with creating data forms that replace traditional objects — provoking users to engage them as everyday in everyday confrontations — constant and unavoidable reminders of the embedded data with the goal of both awareness and behavior change. 
+Embedding data in physical 3D rather than 2D form allows for many obvious benefits. Materiality, surface finish, color, scale, texture, volume, enclosedness, placement in the world, weight... these all become meaningful choices in 3D form, and provide additional vectors for data-driven intentionality.  More intriguing, perhaps, these same designers have experimented with creating data forms that replace traditional objects — provoking users to engage them as everyday in everyday confrontations — constant and unavoidable reminders of the embedded data with the goal of both awareness and behavior change. 
 
 Would you eat differently if your tableware reminded you of the world's obesity epidemic? Would you use your computer differently if its palmrest was shaped with data of your region's energy usage? Would you spend your days differently if your couch was cushioned with the data of the time you and your friend group spend on Facebook and Netflix?
 
@@ -157,7 +157,7 @@ We will be discussing anthropometry next week!
 	9.834
 	```
 
-	#### Country Areas in Square Kilometers Data (1990,1995,2000,2005,2010,2015)
+	#### Foreseted Areas as Percentage of Total Area (1990,1995,2000,2005,2010,2015)
 	```
 	65.4,63.9,62.4,60.6,59.6,59.0
 	16.7,17.8,18.9,20.6,21.4,22.2
