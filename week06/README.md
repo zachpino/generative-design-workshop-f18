@@ -84,7 +84,7 @@ But, play with Pixar in a Box's amazing [interactive tool](https://www.khanacade
 
 ![grass,right?](rhino.gif)=
 
-[Food4Rhino](www.food4rhino.com) is a central repository for plugins and add-on software for Rhino 3D, as well as for Grasshopper. Plugins for plugins! 
+[Food4Rhino](http://www.food4rhino.com) is a central repository for plugins and add-on software for Rhino 3D, as well as for Grasshopper. Plugins for plugins! 
 
 Create a free account on the website and search around. Anything exciting? Unfortunately, not everything will work on Macs and it's impossible to know unless you see an Apple logo under the *Download* button. But, even if *there is not an Apple logo*, it still might work!
 
