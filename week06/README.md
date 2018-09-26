@@ -144,7 +144,7 @@ Create a voronoi tesselation in 3D space around a data-driven, anatomical form. 
 
 Create a Delaunay triangulation in 3D space around a data-driven, anatomical form.
 
-[delaunay_cast.png](delaunay_cast.png)
+![delaunay_cast.png](delaunay_cast.png)
 
 [delaunay_cast](delaunay_cast.gh)
 
