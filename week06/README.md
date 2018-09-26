@@ -1,124 +1,108 @@
-# Week 5 · Data Forms
+# Week 6 · Anthropometric Patterns
 
-We'll examine this week how contemporary designers are using data — both at an individual and global level — to create uniquely meaningful 3d forms with functional, aesthetic, and public awareness goals.
+We'll examine this week how contemporary designers are implementing algorithmic processes to address complex design problems.
 
-This particular emerging topic — the creation of a different type of *smart-object* — sits at the nexus of data science and visualization, generative design practice, and communication design.
+In particular, we'll look at the related [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) and [Voronoi Tesselation](https://en.wikipedia.org/wiki/Voronoi_diagram) — simple mathematical models for complex natural phenomena. We'll also use [Catmull-Clark Subdivision](https://en.wikipedia.org/wiki/Catmull–Clark_subdivision_surface) algorithm to smooth data-drive, anatomical forms.
 
 -----
 
 ### References for the Week
 
-Some examples of designed data forms.
+Some examples of pattern algorithm design work.
 
-- [Dataphys List](http://dataphys.org/list/)
-- [Adrian Segal](https://www.adriensegal.com)
-- [Mischer Traxler](http://mischertraxler.com/projects/)
-- [Paul Heinicker](http://paulheinicker.com)
-- [Iohanna Pani](http://iohanna.com/filter/DESIGN)
-- [DNA Glass](https://adage.com/creativity/work/suntory-dna-glass/50254)
+- [Jerusalem Table](https://www.core77.com/projects/39363/Jerusalem-Tables)
+- [Voronoi at Thingiverse](https://www.thingiverse.com/search?q=voronoi)
+- [Nervous System](https://n-e-r-v-o-u-s.com/projects/)
+- [Marc Newson Voronoi Shelf](http://marc-newson.com/voronoi-shelf/)
+- [Go Wheel Chair](http://layerdesign.com/projects/go/)
+- [Bespoke 3D Orthopedics Brace](https://www.youtube.com/watch?v=OGRkNexY3N8)
+- [Interactive Subdivision](https://www.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision/p/interactive-subdivision-in-3d)
+- [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar)
 
-Some data visualization references.
+- [Unyq](http://unyq.com/en-us/us/)
+- [Osteoid Ultrasonic Cast](https://competition.adesignaward.com/design.php?ID=34151)
+- [Cortex Cast](http://www.evilldesign.com/cortex)
+- [Thermal Comfort Casts](https://3dprint.com/192877/3d-printed-cast-thermal-comfort/)
+- [Hand and Wrist Fracture Cast](http://www.machiningnews.com/2017/06/real-world-test-of-3d-printed-cast-for-hand-fracture/)
 
-- http://www.dear-data.com 
-- www.informationisbeautiful.net
-- www.datapointed.com
-- www.visualnews.com
-- http://nytlabs.com
-- http://flowingdata.com
-- http://fivethirtyeight.com
-- http://infosthetics.com
-- http://www.creativeapplications.net
-- http://www.datavisualization.ch
+- [How to Hand Draw Delaunay and Voronoi](http://765.blogspot.com/2009/09/how-to-draw-voronoi-diagram.html)
+- [Simple Interactive Voronoi Editor](http://www.sygreer.com/projects/voronoi/)
+- [Interactive Javascript Translation](http://paperjs.org/examples/voronoi/)
+- [World Capitals Voronoi](https://www.jasondavies.com/maps/voronoi/capitals/)
+- [In D3 Data Viz Library](https://github.com/d3/d3-delaunay)
+- [Anna Nowak on Application of Voronoi diagrams in contemporary architecture and town planning](https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-5259df1a-e1f7-442f-a68c-10c0c2b35c96/c/chmot62_06.pdf)
 
------
-
-### Tactile Data
-
-![form follows data by iohanna pani](https://www.designboom.com/cms/images/-Z84/ff1.jpg)
-
-Data forms, a new term for an even newer aesthetic archetype, is a very young discipline. As data visualization has become more common in 2D and interactive applications — 3-dimensional artists, architects, and designers have begun to experiment with physicalized 3D data — and have questioned how we can effectively communicate more complex information through 3D form. 
-
-Embedding data in physical 3D rather than 2D form allows for many obvious benefits. Materiality, surface finish, color, scale, texture, volume, enclosedness, placement in the world, weight... these all become meaningful choices in 3D form, and provide additional vectors for data-driven intentionality.  More intrigueing, perhaps, these same designers have experimented with creating data forms that replace traditional objects — provoking users to engage them as everyday in everyday confrontations — constant and unavoidable reminders of the embedded data with the goal of both awareness and behavior change. 
-
-Would you eat differently if your tableware reminded you of the world's obesity epidemic? Would you use your computer differently if its palmrest was shaped with data of your region's energy usage? Would you spend your days differently if your couch was cushioned with the data of the time you and your friend group spend on Facebook and Netflix?
+- [All the Maths](http://cgl.uni-jena.de/pub/Workshops/WebHome/cgl12new.pdf)
+- [Easier to Understand All the Maths])(https://meemoo.org/blog/2014-07-14-noflo-geometry)
 
 -----
 
-### Open Data Sources
+### Triangulation, Tesselation, Subdivision
 
-##### Data Search Engines and General Directories
-- https://www.data.gov
-- https://www.census.gov/developers/
-- http://www.zanran.com/q/
-- https://www.reddit.com/r/datasets/   (and check out the linked subreddits too!)
-- https://github.com/toddmotto/public-apis
-- https://www.google.com/publicdata/directory
-- https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
-- https://tinyletter.com/data-is-plural
 
-##### Municipal
-- https://data.cityofchicago.org
-- https://nycopendata.socrata.com/
+#### Delaunay Triangulation
 
-##### Atmospheric and Geologic
-- http://www.ndbc.noaa.gov
-- https://www.ncdc.noaa.gov/cdo-web/
-- http://weather.rap.ucar.edu
-- https://earthquake.usgs.gov/data/
-- http://www.ssec.wisc.edu/data/
-- https://cfpub.epa.gov/surf/locate/index.cfm
-- http://volcano.ssec.wisc.edu
+![del](https://i.pinimg.com/originals/76/c1/a2/76c1a2a0222ff50861797b6152db8aa2.jpg)
 
-##### Space!
-- https://data.nasa.gov
-- http://chandra.harvard.edu
-- http://sid.stanford.edu/database-browser/
+Developed in the 1930s by Russian geometer [Boris Delaunay](https://en.wikipedia.org/wiki/Boris_Delaunay), the [Delaunay triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation) is essential to nearly all computer graphics. Whenever you hear or talk about a 'mesh', that's a Delaunay Triangulation! Videogames, visual effects for cinema, medical scanning, arcGIS geographic data — everything! It is also in heavy use by structural engineers, and unintentionally undergirds nearly all of the truss geometries that define bridges, attics, and other triangular structures as well as communication network routing. More recently, as autonomous vehicles begin to explore unmapped areas where sensors may fail, Delaunay Triangulation logic is used to allow intelligent agents to navigate dangerous boundaries. 
 
-##### Transportation
-- https://github.com/graphhopper/open-traffic-collection
-- http://opentraffic.io
-- https://jblevins.org/notes/airline-data
-- https://www.fra.dot.gov/Page/P0365
+In 3D space, the triangulation creates a *network topography* of triangular cells, based on known points to support, that would use the minimal amount of connective material to maintain in opposition to a singular force vector.
 
-##### Social
-- https://meta.wikimedia.org/wiki/Datasets
-- https://developers.facebook.com/docs/graph-api
-- https://www.google.com/trends/explore
-- https://dev.twitter.com/streaming/overview
-- https://www.cia.gov/library/publications/the-world-factbook/
+- Sprinkle random points on a 2D plane
+- Draw all possible circles defined by any of the 3 points
+- If those circles contain *any* of the sprinkled points, that circle should be discarded
+- If a circle passes the test, then draw the [circumscribed triangle](https://en.wikipedia.org/wiki/Circumscribed_circle) as an edge
 
-##### Financial
-- https://www.quandl.com
-- http://data.worldbank.org
-- https://www.google.com/finance
+![delaunay supports](http://codingcity.org/wp-content/uploads/2015/07/renderingplaza2.jpg)
 
-##### Animals and Plants
-- https://www.gbif.org
-- https://beeinformed.org
-- https://www.movebank.org
-- http://archive.ics.uci.edu/ml/datasets/zoo
-- http://whale.wheelock.edu/whalenet-stuff/StopBm2016/
-- https://cvml.ist.ac.at/AwA/
-- https://ecologicaldata.org/find-data
+
+#### Voronoi Tesselation
+
+![voronoi](http://datagenetics.com/blog/may12017/anim2.gif)
+
+![del vor](http://meemoo.org/images/delaunay_voronoi_dual.gif)
+
+The geometric [*dual*](https://en.wikipedia.org/wiki/Dual_polyhedron) of the Delaunay Triangulation, Voronoi Tesselation similarly tiles a plane with shapes — though not not usually triangles. The unusual cells that come out of the Voronoi Tesselation model fairly accurately a multitude of natural formal phenomena as well as behaviors. Bone microstructure, sponge anatomy, soil clumping, termite and bee architecture, neuron network arrangement.... the list is almost endless. This is because the Voronoi Tesselation models an *efficient* set of cells. All of the space within a single Voronoi cell is *closer* to the centroid of a Delaunay triangle, and as a result, Voronoi logic approximates how any agent might make a decision about which of a set of possible choices should be chosen based purely on efficiently traversing or covering a plane or volume. It is increasingly being used by public policymakers to [place trainstops, design road networks](http://datagenetics.com/blog/may12017/index.html), and [predict crime](https://www.tandfonline.com/doi/abs/10.1080/00330124.2017.1288578?scroll=top&needAccess=true&journalCode=rtpg20).
+
+- Generate a Delaunay Triangulation
+- Find the area centroid of each triangle
+- Find the midpoint of each edge, and draw a line perpendicular to the edge
+- Intersect all these lines and cut them with one another
+- Draw the remnant irregular polygons
+
+![bone](https://afinemesh.files.wordpress.com/2014/04/printed-voronoi.jpg)
+
+#### Catmull Clark Subdivision
+
+Catmull Clark Subdivision is amazing! We'll talk about it in class, it's very difficult to describe in words.
+
+But, play with Pixar in a Box's amazing [interactive tool](https://www.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision/p/interactive-subdivision-in-3d)) to get a sense of it.
+
+-----
+
+### Food 4 Rhino
+
+![grass,right?](rhino.gif)=
+
+[Food4Rhino](www.food4rhino.com) is a central repository for plugins and add-on software for Rhino 3D, as well as for Grasshopper. Plugins for plugins! 
+
+Create a free account on the website and search around. Anything exciting? Unfortunately, not everything will work on Macs and it's impossible to know unless you see an Apple logo under the *Download* button. But, even if *there is not an Apple logo*, it still might work!
+
+To install a Grasshopper plugin, open Grasshopper, and navigate to File -> Special Folders -> Components Folder.
+
+This will open a Finder/Explorer window, into which you can move the downloaded folder. The best practice is usually to drag the entire folder over, not the individual .gha or .ghuser files. You can find Grasshopper plugins all over the internet, not just at Food4Rhino. If you are running Windows, right click on any .exe, .ghuser, and .gha files and click on *Properties*. Make sure to click *Unblock* if it is an option.
+
+For Grasshopper to load newly installed plugins, we just need to restart Grasshopper. Either quit and restart Rhino, or alternatively, in *Rhino* type `Grasshopper unload plugin` and then relaunch Grasshopper.
+
+For this and future exercises, let's install a few specific and essential plugins.
+
+- For better Mesh cleanup: [Mesh Edit Tools *1.9* from Oct 1, 2016](https://www.food4rhino.com/app/meshedit)
+- For better Mesh smoothing: [Weaverbird for Mac](http://www.giuliopiacentino.com/get-wb-no-admin/) or [Weaverbird for Windows](http://www.giuliopiacentino.com/get-wb/)
 
 -----
 
 ### Grasshopper Definition
 
-Let's manipulate outside data in Grasshopper 
-
-
-#### Data Plotting
-
-Different ways to plot 3d points based on information (here random numbers) and convert those points into a variety of 3d forms.
-
-![dataplot](dataplot.png)
-
-[dataplot](dataplot.gh)
-
-![dataplot](dataplot_gh.png)
-
------
 
 #### Image Sampler
 
@@ -132,37 +116,47 @@ Extract brightness data from an image and create a heightmap.
 
 -----
 
-#### Data Samples
+#### 'Simple' Delaunay Triangulation
 
-Draw real data in Grasshopper.
+From a field of random points, create Delaunay triangulation
 
-![datasamples](datasamples.png)
+![delaunay](delaunay.png)
 
-[datasamples](datasamples.gh)
+[imagesampler](delaunay.gh)
+
+![delaunay](delaunay_gh.png)
 
 -----
 
-#### Data Form
+#### Data-Driven Voronoi Cast
 
-Experiment in generating a 3d form.
+Create a voronoi tesselation in 3D space around a data-driven, anatomical form. Allow for variable cell openness based on attractor curve.
 
-Let's look at some datasets.
+[voronoi_cast.png](voronoi_cast.png)
 
-- [Global Deforestation Rates by Country](https://rainforests.mongabay.com/deforestation_country.html)
-- [Environmental Performance Indicators](https://epi.envirocenter.yale.edu/epi-downloads)
-- [Global Forest Watch](https://www.globalforestwatch.org)
-- [Population Change](https://data.worldbank.org/indicator/SP.POP.TOTL?end=2005&name_desc=false&start=1990)	
-- [Country Area](https://simple.wikipedia.org/wiki/List_of_countries_by_area)
+[voronoi_cast](voronoi_cast.gh)
+
+![voronoi_cast_gh.png](voronoi_cast_gh.png)
+
+-----
+
+#### Data-Driven Delaunay Cast
+
+Create a Delaunay triangulation in 3D space around a data-driven, anatomical form.
+
+[delaunay_cast.png](delaunay_cast.png)
+
+[delaunay_cast](delaunay_cast.gh)
+
+![delaunay_cast_gh.png](delaunay_cast_gh.png)
 
 -----
 
 ### Homework
 
-We will be discussing anthropometry next week!
+We will be discussing evolutionary modeling next week, maybe?!
 
-- Read: Download this PDF copy of the original [Measure of Man](MeasureOfMan.pdf) by Henry Dreyfuss (released in 1959) and the revised version [Measure of Man and Woman](MeasureOfManAndWoman.pdf) edited by Alvin Tilley (released in 1993) and Henry Dreyfuss Associates (the company Henry Dreyfuss founded). Please also read about [Henry Dreyfuss](https://en.wikipedia.org/wiki/Henry_Dreyfuss), the original author and one of the first *data-driven designers*.
-
-	Browse through the whole books (they're mostly pictures) to get a sense of the contents, and please read pages 7-11, 33, 35, and 36 of *Measure of Man and Woman*. Please prepare to discuss the *motivation* of these texts, and how we should confront them as *inclusive* designers. Are texts like this useful to our design practice? How might different disciplines, like the many social sciences, evaluate our reliance on books like this?
+- Read: Come back after class! 
 
 - Investigate: Come back after class! 
 
