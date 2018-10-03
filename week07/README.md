@@ -98,7 +98,7 @@ Route a subway through a city to adequately serve population centers.
 
 [subway](subway.gh)
 
-![subway](subway.png)
+![subway](subway_gh.png)
 
 -----
 
