@@ -14,7 +14,7 @@ Institute of Design course in parametric design principles and markets-of-one de
 - [Week 6 · Anthropometric Patterns](week06/README.md)
 - [Week 7 · Evolutionary Algorithms](week07/README.md)
 
-- [Final Briefs](week08/briefs.md)
+- [Final Briefs](briefs.md)
 
 - [Week 8 · Growing Forms](week08/README.md)
 
