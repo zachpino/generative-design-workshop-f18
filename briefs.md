@@ -58,5 +58,5 @@ Inherently, this project will require some form of data collection, whether that
 #### Deliverables 
 	- Final prototype, either as complete work or as a combination *looks alike* fabricated model and *works alike* breadboard model
 	- Service storyboard / 
-	- Pseudo-website for product.
+	- Pseudo-website for product
 	- Photographic documentation PDF of project development
