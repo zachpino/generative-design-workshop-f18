@@ -17,4 +17,5 @@ Institute of Design course in parametric design principles and markets-of-one de
 - [Final Briefs](briefs.md)
 
 - [Week 8 · Growing Forms](week08/README.md)
+- [Week 9 · Growing Forms v2 and Grasshopper Plugins](week09/README.md)
 
