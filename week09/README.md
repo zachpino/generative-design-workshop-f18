@@ -10,6 +10,9 @@ Install into the folder revealed by Grasshopper's File->Special Folders->Compone
 
 - [Shortest Walk GH](https://www.food4rhino.com/app/shortest-walk-gh)
 - [Cocoon](http://www.bespokegeometry.com/2015/07/22/cocoon/)
+
+Download this so we all can start in the same place...
+
 - [Starting File](3dshortestwalk.gh)
 
 -----
