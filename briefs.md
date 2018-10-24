@@ -45,9 +45,9 @@ Contemporary digital fabrication and generative tools allow designers to fundame
 
 With these thoughts in your mind, choose a specific designed object (which is an intentionally loose term!). Through the next 7 weeks, consider how that object would be approached from a variety of generative design approaches. Imagine how generative models could enable a diversity of audiences, functionalities, and applications. More importantly, consider how your designed object could be made unique in different ways for different contexts and users.
 
-Regarding the choice of object — really anything is possible, but it may be worth considering what kind of work you want to explore this semester.
+Regarding the choice of object — really anything is possible, but it may be worth considering what kind of work you want to explore the remainder of the semester.
 
-	- Is your user a human or animal? If so, you'll likely be playing with parametric rigs, data-forms, and thinking about new models for anthropometry.
+	- Is your user a human or animal? If so, you'll likely be playing with parametric rigs, data-forms, and thinking about new models for anthropometry and measurement.
 
 	- Is your user a space? If so, you'll likely be leveraging generative logics and algorithmic forms from sensor-derived data.
 
@@ -56,7 +56,9 @@ Regarding the choice of object — really anything is possible, but it may be wo
 Inherently, this project will require some form of data collection, whether that be direct measuring, pulling down information from APIs, creating a dataset from sensors, or accessing giant public datasources. Consider how you *as a service* might engage your user over time through data collection routines, product scoping and design, and fabrication.
 
 #### Deliverables 
-	- Final prototype, either as complete work or as a combination *looks alike* fabricated model and *works alike* breadboard model
-	- Service storyboard / 
-	- Pseudo-website for product
+	- Final prototype as a *set of alternative objects for different audiences* demonstrating the expressability of your design
+	- Service storyboard of how users engage your design over time 
+	- Infographic demonstrating how your *algorithm* takes in data and outputs designed outcomes
+	- Pseudo-website homepage introducing and describing the service
 	- Photographic documentation PDF of project development
+
