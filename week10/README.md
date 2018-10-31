@@ -2,6 +2,8 @@
 
 Time to work today, but something for the holiday too! 
 
+![pumpkin](pumpkin.png)
+
 ----
 
 ### Plugins for the Day
