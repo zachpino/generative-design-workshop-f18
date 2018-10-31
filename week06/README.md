@@ -154,10 +154,4 @@ Create a Delaunay triangulation in 3D space around a data-driven, anatomical for
 
 ### Homework
 
-We will be discussing evolutionary modeling next week, maybe?!
-
-- Read: Come back after class! 
-
-- Investigate: Come back after class! 
-
-- Model: Come back after class! 
+Week off!
