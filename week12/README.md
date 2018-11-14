@@ -66,9 +66,15 @@ You would likely want to grab geojson files from places [like this](https://data
 
 -----
 
-### Brain Wave Polygons via OSC 
+### Brain Wave Polygonal Lofts via OSC 
 
-Use [Firefly](http://www.fireflyexperiments.com)!
+Use [Firefly](http://www.fireflyexperiments.com) to make the connection.
+
+[Download Definition](dataloft.gh)
+
+![maps](dataloft.png)
+
+![maps](dataloft_gh.png)
 
 -----
 
