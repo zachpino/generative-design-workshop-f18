@@ -72,15 +72,15 @@ Use [Firefly](http://www.fireflyexperiments.com)!
 
 -----
 
-### Styled Prostetic
+### Styled Prosthetic
 
 Calf forms, created from ellipses, tiled and patterned with various panelling algorithms from [Lunchbox](https://www.food4rhino.com/app/lunchbox) and Pull-to-Surface logics.
 
-[Download Definition](prothetic.gh)
+[Download Definition](prosthetic.gh)
 
-![maps](prothetic.png)
+![maps](prosthetic.png)
 
-![maps](prothetic_gh.png)
+![maps](prosthetic_gh.png)
 
 -----
 
