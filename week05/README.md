@@ -34,7 +34,7 @@ Some data visualization references.
 
 ### Tactile Data
 
-![form follows data by iohanna pani](https://www.designboom.com/cms/images/-Z84/ff1.jpg)
+![form follows data by iohanna pani](https://cdn.trendhunterstatic.com/thumbs/iohanna-pani-dishes-statistics.jpeg)
 
 Data forms, a new term for an even newer aesthetic archetype, is a very young discipline. As data visualization has become more common in 2D and interactive applications — 3-dimensional artists, architects, and designers have begun to experiment with physicalized 3D data — and have questioned how we can effectively communicate more complex information through 3D form. 
 
